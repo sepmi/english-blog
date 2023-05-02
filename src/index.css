@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "IranSans";
+  src: url(./assests/fonts/IRAN\ Sans.woff);
+}
+* {
+  box-sizing: border-box;
+  font-family: "IranSans";
+}
+
+body {
+  margin: 0px;
+}
