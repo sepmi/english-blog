@@ -13,21 +13,39 @@ const Navbar = (props) => {
 
   return (
     <Fragment>
-      <div className="flex justify-between items-center bg-[#00429E] text-white h-[70px] bg-gradient-to-t from-[#00215A]  ">
-        <img src={logo} className="ml-4 " />
-        <button className="bg-[#E1165E] w-[164px] h-[48px] rounded-[10px]">
+      <div className="flex justify-between items-center bg-[#00429E] text-white h-[70px] bg-gradient-to-t from-[#00215A]  md:fixed w-[100%] z-10">
+        <img src={logo} className="ml-4  md:hidden" />
+
+        <button className="bg-[#E1165E] w-[164px] h-[48px] rounded-[10px] md:ml-[87px]">
           دانلود اپلیکیشن
         </button>
 
         {!nav ? (
-          <img src={menu1} className="mr-4" onClick={navHandler} />
+          <img
+            src={menu1}
+            alt="menu_image"
+            className="mr-4 md:hidden "
+            onClick={navHandler}
+          />
         ) : (
           <img
             src={menu22}
+            alt="logo"
             className="mr-[28px] ml-[16px] w-[20px] "
             onClick={navHandler}
           />
         )}
+
+        <ul className=" hidden md:flex flex-row-reverse mr-[80px] ">
+          <img src={logo} alt="logo" className="ml-4 " />
+
+          <li className="h-[31px] text-right text-[20px] text-white mr-[16px] ">
+            بلاگ زبانشناس
+          </li>
+          <li className="h-[31px] text-right text-[20px] text-white mr-[16px]">
+            تالار گفتگو
+          </li>
+        </ul>
       </div>
       {nav && (
         <div>
