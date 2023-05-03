@@ -30,10 +30,10 @@ const Posts = (props) => {
     });
   });
   return (
-    <div className="flex items-center">
+    <div className="flex items-center ">
       <div
         id="slider"
-        className="flex flex-col mt-[40px] mr-[24px] ml-[24px] bg-white  overflow-y-scroll h-[900px] md:block w-full h-[420px] overflow-x-scroll whitespace-nowrap scrollbar-hide md:mr-[128px] md:ml-[128px]"
+        className="flex flex-col mt-[40px] mr-[24px] ml-[24px] bg-white overflow-y-auto h-[600px] md:block w-full md:h-[432px] overflow-x-scroll whitespace-nowrap scrollbar-hide md:mr-[128px] md:ml-[128px]"
       >
         <div className="relative w-[327px] h-[325px] mb-[24px]  mx-auto  inline-block md:m-[40px] w-[353px]h-[432px]">
           <img

@@ -1,31 +1,37 @@
 const Skills = (props) => {
   return (
-    <div className="flex flex-col items-center max-w-[291px] h-[419px] text-right mt-[40px] mr-[24px] ml-[24px] md:max-w-[1140px] h-[355px]">
-      <h1 className="mx-auto text-[24px] mb-[33px]">
+    <div className="items-center max-w-[327px] h-full  mx-auto mt-[20px] md:max-w-[1140px] ">
+      <h1 className=" text-[24px] mb-[33px] text-center md:text-[27px]">
         مهارت‌هایی که با زبانشناس می‌آموزید
       </h1>
-      <div className=" grid mx-auto justify-center	 md:grid-cols-2 ">
-        <div>
-          <h1 className="">محتوای خودرا وارد کنید</h1>
-          <p>
+      <div className="flex flex-col text-right h-[324px] md:flex-wrap justify-start">
+        <div className="h-[92px] md:max-w-[538px] md:h-[126px]">
+          <h1 className="h-[30px] text-[19px] mb-[17px] md:text-[23px] md:h-[36px] md:mb-[16px]">
+            محتوای خودرا وارد کنید
+          </h1>
+          <p className="h-[44px] mr-[40px] text-[14px] md:text-[17px] md:h-[54px] md:mr-[72px] mt-[16px]">
             مطالعه‌ی آزاد کتاب، یکی از بهترین روش‌ها برای یادگیری زبان انگلیسی
-            است.
+            است
           </p>
         </div>
 
-        <div>
-          <h1>محتوای خودرا وارد کنید</h1>
-          <p>
+        <div className="h-[92px] md:max-w-[538px] md:h-[126px]">
+          <h1 className="h-[30px] text-[19px] mb-[17px] md:text-[23px] md:h-[36px] md:mb-[16px]">
+            محتوای خودرا وارد کنید
+          </h1>
+          <p className="h-[44px] mr-[40px] text-[14px] md:text-[17px] md:h-[54px] md:mr-[72px] mt-[16px]">
             مطالعه‌ی آزاد کتاب، یکی از بهترین روش‌ها برای یادگیری زبان انگلیسی
-            است.
+            است
           </p>
         </div>
 
-        <div>
-          <h1>محتوای خودرا وارد کنید</h1>
-          <p>
+        <div className="h-[92px] md:max-w-[538px] md:h-[126px]">
+          <h1 className="h-[30px] text-[19px] mb-[17px] md:text-[23px] md:h-[36px] md:mb-[16px]">
+            محتوای خودرا وارد کنید
+          </h1>
+          <p className="h-[44px] mr-[40px] text-[14px] md:text-[17px] md:h-[54px] md:mr-[72px] mt-[16px]">
             مطالعه‌ی آزاد کتاب، یکی از بهترین روش‌ها برای یادگیری زبان انگلیسی
-            است.
+            است
           </p>
         </div>
       </div>
