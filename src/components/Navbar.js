@@ -13,8 +13,8 @@ const Navbar = (props) => {
 
   return (
     <Fragment>
-      <div className="flex justify-between items-center bg-[#00429E] text-white h-[70px] bg-gradient-to-t from-[#00215A]  md:fixed w-[100%] z-10">
-        <img src={logo} className="ml-4  md:hidden" />
+      <div className="flex justify-between items-center bg-[#00429E] text-white h-[70px] bg-gradient-to-t from-[#00215A]  md:fixed md:w-[100%] md:z-10">
+        <img src={logo} alt="navbar_logo" className="ml-4  md:hidden" />
 
         <button className="bg-[#E1165E] w-[164px] h-[48px] rounded-[10px] md:ml-[87px]">
           دانلود اپلیکیشن

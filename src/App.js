@@ -2,6 +2,7 @@ import Header from "./components/Header";
 import Navbar from "./components/Navbar";
 import Posts from "./components/Posts";
 import Skills from "./components/Skills";
+import UserComments from "./components/UserComments";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <Posts />
       <Skills />
+      <UserComments />
     </div>
   );
 }

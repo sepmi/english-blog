@@ -37,7 +37,7 @@ const Posts = (props) => {
       > */}
       <div
         id="slider"
-        className="flex flex-col  mr-[24px] ml-[24px] h- bg-white md:block w-full md:max-h-[444px] overflow-y-hidden overflow-x-scroll whitespace-nowrap scrollbar-hide md:mr-[128px] md:ml-[128px]"
+        className="flex flex-col  mr-[24px] ml-[24px]  bg-white md:block w-full md:max-h-[444px] overflow-y-hidden md:overflow-x-scroll whitespace-nowrap scrollbar-hide md:mr-[128px] md:ml-[128px]"
       >
         <div className="relative w-[327px] h-[325px] mb-[24px]  mx-auto  inline-block md:mr-[41px] md:ml-[41px] md:w-[353px] md:h-[432px]  md:mt-[2px]">
           <img
