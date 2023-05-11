@@ -12,7 +12,7 @@ const UserComments = (props) => {
         <div className="flex flex-col md:flex-row-reverse h-[357px] md:h-[184px] mb-[24px] md:mb-[40px] justify-center items-center border-[3px]">
           {/* image */}
           <div
-            className="mx-auto w-[155px] h-[155px] md:w-[184px] md:h-[184px] rounded-[100%] bg-[#727272] flex justify-center items-center 
+            className="mx-auto min-w-[155px] h-[155px] md:w-[184px] md:h-[184px] rounded-[100%] bg-[#727272] flex justify-center items-center 
         mb-[24px] md:mb-[0px] md:ml-[24px] "
           >
             <img
@@ -22,14 +22,14 @@ const UserComments = (props) => {
             />
           </div>
           {/* image */}
-          <div className="bg-amber-400 h-[181px] md:h-[149px] md:mt-[18px] md:mb-[18px] w-full md:w-[932px]"></div>
+          <div className=" h-[181px] md:h-[149px] md:mt-[18px] md:mb-[18px] w-full md:w-[932px]"></div>
         </div>
 
         {/* first section */}
         <div className="flex flex-col md:flex-row-reverse h-[357px] md:h-[184px] mb-[24px] md:mb-[40px] justify-center items-center border-[3px]">
           {/* image */}
           <div
-            className="mx-auto w-[155px] h-[155px] md:w-[184px] md:h-[184px] rounded-[100%] bg-[#727272] flex justify-center items-center 
+            className="mx-auto min-w-[155px] h-[155px] md:w-[184px] md:h-[184px] rounded-[100%] bg-[#727272] flex justify-center items-center 
         mb-[24px] md:mb-[0px] md:ml-[24px] "
           >
             <img
@@ -39,14 +39,14 @@ const UserComments = (props) => {
             />
           </div>
           {/* image */}
-          <div className="bg-amber-400 h-[181px] md:h-[149px] md:mt-[18px] md:mb-[18px] w-full md:w-[932px]"></div>
+          <div className=" h-[181px] md:h-[149px] md:mt-[18px] md:mb-[18px] w-full md:w-[932px]"></div>
         </div>
 
         {/* first section */}
         <div className="flex flex-col md:flex-row-reverse h-[357px] md:h-[184px] mb-[24px] md:mb-[40px] justify-center items-center border-[3px]">
           {/* image */}
           <div
-            className="mx-auto w-[155px] h-[155px] md:w-[184px] md:h-[184px] rounded-[100%] bg-[#727272] flex justify-center items-center 
+            className="mx-auto min-w-[155px] h-[155px] md:w-[184px] md:h-[184px] rounded-[100%] bg-[#727272] flex justify-center items-center 
         mb-[24px] md:mb-[0px] md:ml-[24px] "
           >
             <img
@@ -56,7 +56,7 @@ const UserComments = (props) => {
             />
           </div>
           {/* image */}
-          <div className="bg-amber-400 h-[181px] md:h-[149px] md:mt-[18px] md:mb-[18px] w-full md:w-[932px]"></div>
+          <div className=" h-[181px] md:h-[149px] md:mt-[18px] md:mb-[18px] w-full md:w-[932px]"></div>
         </div>
       </div>
     </div>
