@@ -6,7 +6,7 @@ const Skills = (props) => {
       <h1 className=" text-[24px] mb-[33px] text-center md:text-[27px]">
         مهارت‌هایی که با زبانشناس می‌آموزید
       </h1>
-      <div className="flex flex-col text-right h-[324px] mt-[48px] md:flex-wrap md:justify-start md:flex-row-reverse md:mt-[32px]">
+      <div className="flex flex-col text-right h-full mt-[48px] md:flex-wrap md:justify-start md:flex-row-reverse md:mt-[32px]">
         <div className="h-[92px] md:max-w-[538px] md:mb-[24px] md:h-[126px]">
           <div>
             <h1 className="h-[30px] text-[19px] w-[283px] mr-[8px] inline-block md:text-[23px] md:h-[36px] md:mb-[16px] md:mr-[16px] md:mt-[9px]">
