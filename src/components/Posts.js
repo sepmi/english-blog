@@ -31,10 +31,6 @@ const Posts = (props) => {
   });
   return (
     <div className="flex items-center mt-[40px] md:mt-[56px] ">
-      {/* <div
-        id="slider"
-        className="flex flex-col mt-[40px] mr-[24px] ml-[24px] bg-white overflow-y-auto h-[600px] md:block w-full md:h-[432px] overflow-x-scroll whitespace-nowrap scrollbar-hide md:mr-[128px] md:ml-[128px]"
-      > */}
       <div
         id="slider"
         className="flex flex-col  mr-[24px] ml-[24px]  bg-white md:block w-full md:max-h-[444px] overflow-y-hidden md:overflow-x-scroll whitespace-nowrap scrollbar-hide md:mr-[128px] md:ml-[128px]"
