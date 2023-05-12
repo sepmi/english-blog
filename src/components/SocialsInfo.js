@@ -4,7 +4,7 @@ import store from "../assests/home/Google play/Google play@2x.png";
 
 const SocialsInfo = (props) => {
   return (
-    <div className=" w-full h-[226px] md:h-[286px] mt-[40px] md:mt-[56px] mx-auto mb-[50px] pt-[16px] md:pt-[24px]">
+    <div className=" w-full h-[226px] md:h-[286px] mt-[40px] md:mt-[56px] mx-auto pt-[16px] md:pt-[24px] bg-[#EFEFEF]">
       <div className="w-full h-[117px] md:h-[148px] mb-[24px] md:mb-[44px] flex flex-row-reverse items-stretch justify-evenly">
         <div className=" h-[117px] md:h-[148px] w-[125px] md:w-[466px]">
           <img
@@ -70,7 +70,7 @@ const SocialsInfo = (props) => {
           </p>
         </div>
       </div>
-      <button className="bg-[#E1165E] block w-[196px] h-[48px] md:w-[236px] md:h-[53px] rounded-[10px] mx-auto">
+      <button className="bg-[#E1165E] block w-[196px] h-[48px] md:w-[236px] md:h-[53px] rounded-[10px] mx-auto text-white">
         دانلود اپلیکیشن
       </button>
     </div>
