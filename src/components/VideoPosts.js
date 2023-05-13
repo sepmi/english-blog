@@ -1,10 +1,8 @@
-import sampleVideo from "../assests/home/Screen Recording 2023-05-12 at 5.05.55 PM.mov";
-
 const VideoPosts = (props) => {
   return (
     <div className="max-w-[327px] md:max-w-[1220px] h-full  mx-auto  md:mt-[56px] md:pl-[40px] md:pr-[40px] mb-6">
       {/* first item */}
-      <div className=" w-full h-[394px] md:h-[350px] mb-[24px] mt-[40px]  md:flex md:flex-row-reverse md:items-center md:justify-center rounded-[10px] bg-[#FAFAFA] drop-shadow-md">
+      <div className=" w-full h-[394px] md:h-[350px] mb-[24px] mt-[40px] md:mt-[56px]  md:flex md:flex-row-reverse md:items-center md:justify-center rounded-[10px] bg-[#FAFAFA] drop-shadow-md">
         {/* <video
           className="w-[327px] h-[181px] md:max-w-[612px] md:max-h-[350px] rounded-t-[10px] bg-black"
           controls
@@ -26,7 +24,7 @@ const VideoPosts = (props) => {
       </div>
 
       {/* first item */}
-      <div className=" w-full h-[394px] md:h-[350px] mb-[24px] mt-[40px]  md:flex md:flex-row-reverse md:items-center md:justify-center rounded-[10px] bg-[#FAFAFA] drop-shadow-md">
+      <div className=" w-full h-[394px] md:h-[350px] mb-[24px] mt-[40px] md:mt-[56px]  md:flex md:flex-row-reverse md:items-center md:justify-center rounded-[10px] bg-[#FAFAFA] drop-shadow-md">
         {/* <video
           className="w-[327px] h-[181px] md:max-w-[612px] md:max-h-[350px] rounded-t-[10px] bg-black"
           controls
@@ -48,7 +46,7 @@ const VideoPosts = (props) => {
       </div>
 
       {/* first item */}
-      <div className=" w-full h-[394px] md:h-[350px] mb-[24px] mt-[40px]  md:flex md:flex-row-reverse md:items-center md:justify-center rounded-[10px] bg-[#FAFAFA] drop-shadow-md">
+      <div className=" w-full h-[394px] md:h-[350px] mb-[43px] md:mb-[56px] mt-[40px] md:mt-[56px]  md:flex md:flex-row-reverse md:items-center md:justify-center rounded-[10px] bg-[#FAFAFA] drop-shadow-md">
         {/* <video
           className="w-[327px] h-[181px] md:max-w-[612px] md:max-h-[350px] rounded-t-[10px] bg-black"
           controls
