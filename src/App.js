@@ -5,6 +5,7 @@ import ShowCase from "./components/ShowCase";
 import Skills from "./components/Skills";
 import SocialsInfo from "./components/SocialsInfo";
 import UserComments from "./components/UserComments";
+import VideoPosts from "./components/VideoPosts";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <UserComments />
       <SocialsInfo />
       <ShowCase />
+      <VideoPosts />
     </div>
   );
 }
