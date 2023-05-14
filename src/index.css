@@ -6,6 +6,21 @@
   font-family: "IranSans";
   src: url(./assests/fonts/IRAN\ Sans.woff);
 }
+
+@font-face {
+  font-family: "IranSans-bold";
+  src: url(./assests/fonts/IranSansX/Webfonts/fonts/woff/IRANSansX-Bold.woff);
+}
+
+@font-face {
+  font-family: "IranSans-medium";
+  src: url(./assests/fonts/IranSansX/Webfonts/fonts/woff/IRANSansX-Medium.woff);
+}
+
+@font-face {
+  font-family: "IranSans-Regular";
+  src: url(./assests/fonts/IranSansX/Webfonts/fonts/woff/IRANSansX-Regular.woff);
+}
 * {
   box-sizing: border-box;
   font-family: "IranSans";
