@@ -16,7 +16,7 @@ const UserStory = (props) => {
             className="w-[203px] h-[414px] md:w-[257px] md:h-[523px] mb-[24px] md:mb-0 md:mr-[72px] "
           />
 
-          <div className="w-[327px] md:w-[811px] h-[404px] md:h-[396px] md:mt-[64px] ">
+          <div className="w-[327px] md:w-[811px] h-[404px] md:h-[396px] md:mt-[64px] md:pr-[5px]">
             <h1 className="h-[33px] md:h-39px text-[21px] md:text-[25px] text-white text-right font-IranSans-bold">
               از زبانشناس تا تولید محتوا در یوتیوب
             </h1>
