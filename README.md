@@ -1,6 +1,6 @@
 #English blog
 
-simple responsive blog
+simple responsive blog(not yet completed)
 
 ## Demo
 
