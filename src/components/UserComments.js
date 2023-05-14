@@ -3,7 +3,7 @@ import icon from "../assests/home/icon.svg";
 const UserComments = (props) => {
   return (
     <div className="max-w-[327px] md:max-w-[1140px] h-full mt-[40px] md:mt-[56px] mx-auto  ">
-      <h1 className="text-center  mb-[33px] md:mb-[48px] mx-auto  text-[24px] md:text-[27px] ">
+      <h1 className="text-center  mb-[33px] md:mb-[48px] mx-auto  text-[24px] md:text-[27px] font-IranSans-bold">
         چرا زبانشناس؟
       </h1>
 

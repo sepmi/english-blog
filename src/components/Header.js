@@ -11,12 +11,14 @@ const Header = (props) => {
         />
 
         <div className=" mt-[24px] flex flex-col justify-center">
-          <h1 className="text-right text-[26px]  text-white">بلاگ زبانشناس</h1>
-          <p className="text-white text-[14px] text-right mt-[8px] ">
+          <h1 className="text-right text-[26px] md:text-[33px]  text-white font-IranSans-bold">
+            بلاگ زبانشناس
+          </h1>
+          <p className="text-white text-[14px] md:text-[17px] text-right mt-[8px] font-IranSans-medium">
             در این بخش توضیح مختصری در ارتباط با بلاگ زبان شناس داد می شود در
             حال حاضر این یک متن اماده است
           </p>
-          <button className="bg-[#E1165E] w-[164px] h-[48px] rounded-[10px] text-white mt-[24px] md:mt-[40px]">
+          <button className="bg-[#E1165E] w-[164px] h-[48px] rounded-[10px] text-white mt-[24px] md:mt-[40px] text-[16px] md:text-[21px] font-IranSans-bold">
             شروع یادگیری
           </button>
         </div>
