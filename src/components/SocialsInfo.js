@@ -14,14 +14,14 @@ const SocialsInfo = (props) => {
           />
 
           <p
-            className="text-[17px] md:text-[20px] mx-auto w-fit h-[27px] md:h-[31px] mt-[8px] "
+            className="font-IranSans-medium text-[17px] md:text-[20px] mx-auto w-fit h-[27px] md:h-[31px] mt-[8px] "
             dir="rtl"
           >
             ۲۵ هزار
           </p>
 
           <p
-            className="text-[11px] md:text-[13px] mx-auto w-fit mt-[8px] text-[#5D5D5D] "
+            className="font-IranSans-Regular text-[11px] md:text-[13px] mx-auto w-fit mt-[8px] text-[#5D5D5D] "
             dir="rtl"
           >
             کاربر فعال
@@ -35,14 +35,14 @@ const SocialsInfo = (props) => {
           />
 
           <p
-            className="text-[17px] md:text-[20px] mx-auto w-fit h-[27px] md:h-[31px] mt-[8px] "
+            className="font-IranSans-medium text-[17px] md:text-[20px] mx-auto w-fit h-[27px] md:h-[31px] mt-[8px] "
             dir="rtl"
           >
             ۳.۶ امتیاز{" "}
           </p>
 
           <p
-            className="text-[11px] md:text-[13px] mx-auto w-fit mt-[8px] text-[#5D5D5D] "
+            className="font-IranSans-Regular text-[11px] md:text-[13px] mx-auto w-fit mt-[8px] text-[#5D5D5D] "
             dir="rtl"
           >
             ۳ونیم‌تا ستاره:)
@@ -56,21 +56,21 @@ const SocialsInfo = (props) => {
           />
 
           <p
-            className="text-[17px] md:text-[20px] mx-auto w-fit h-[27px] md:h-[31px] mt-[8px] "
+            className="font-IranSans-medium text-[17px] md:text-[20px] mx-auto w-fit h-[27px] md:h-[31px] mt-[8px] "
             dir="rtl"
           >
             ۳۰ هزار
           </p>
 
           <p
-            className="text-[11px] md:text-[13px] mx-auto w-fit mt-[8px] text-[#5D5D5D] "
+            className="font-IranSans-Regular text-[11px] md:text-[13px] mx-auto w-fit mt-[8px] text-[#5D5D5D] "
             dir="rtl"
           >
             منبع اموزشی{" "}
           </p>
         </div>
       </div>
-      <button className="bg-[#E1165E] block w-[196px] h-[48px] md:w-[236px] md:h-[53px] rounded-[10px] mx-auto text-white">
+      <button className="bg-[#E1165E] block w-[196px] h-[48px] md:w-[236px] md:h-[53px] rounded-[10px] mx-auto text-white font-IranSans-bold">
         دانلود اپلیکیشن
       </button>
     </div>

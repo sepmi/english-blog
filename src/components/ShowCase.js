@@ -12,7 +12,7 @@ const ShowCase = (props) => {
             alt="card_image"
           />
           <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px] flex justify-center items-center">
-            <p className="text-[14px] md:text-[17px] text-white  text-center  ">
+            <p className="font-IranSans-medium text-[14px] md:text-[17px] text-white  text-center  ">
               فیلم و سریال
             </p>
           </div>
@@ -24,8 +24,8 @@ const ShowCase = (props) => {
             className=" w-full h-full rounded-[10px] bg-white"
             alt="card_image"
           />
-          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px]">
-            <p className="text-[14px] md:text-[17px] text-white  text-center ">
+          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px] flex justify-center items-center">
+            <p className="font-IranSans-medium text-[14px] md:text-[17px] text-white  text-center ">
               فیلم و سریال
             </p>
           </div>
@@ -37,8 +37,8 @@ const ShowCase = (props) => {
             className=" w-full h-full rounded-[10px] bg-white"
             alt="card_image"
           />
-          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px]">
-            <p className="text-[14px] md:text-[17px] text-white  text-center ">
+          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px] flex justify-center items-center">
+            <p className="font-IranSans-medium text-[14px] md:text-[17px] text-white  text-center ">
               فیلم و سریال
             </p>
           </div>
@@ -50,8 +50,8 @@ const ShowCase = (props) => {
             className=" w-full h-full rounded-[10px] bg-white"
             alt="card_image"
           />
-          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px]">
-            <p className="text-[14px] md:text-[17px] text-white  text-center ">
+          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px] flex justify-center items-center">
+            <p className="font-IranSans-medium text-[14px] md:text-[17px] text-white  text-center ">
               فیلم و سریال
             </p>
           </div>
@@ -63,8 +63,8 @@ const ShowCase = (props) => {
             className=" w-full h-full rounded-[10px] bg-white"
             alt="card_image"
           />
-          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px]">
-            <p className="text-[14px] md:text-[17px] text-white  text-center ">
+          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px] flex justify-center items-center">
+            <p className="font-IranSans-medium text-[14px] md:text-[17px] text-white  text-center ">
               فیلم و سریال
             </p>
           </div>
@@ -76,8 +76,8 @@ const ShowCase = (props) => {
             className=" w-full h-full rounded-[10px] bg-white"
             alt="card_image"
           />
-          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px]">
-            <p className="text-[14px] md:text-[17px] text-white  text-center ">
+          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px] flex justify-center items-center">
+            <p className="font-IranSans-medium text-[14px] md:text-[17px] text-white  text-center ">
               فیلم و سریال
             </p>
           </div>
@@ -89,8 +89,8 @@ const ShowCase = (props) => {
             className=" w-full h-full rounded-[10px] bg-white"
             alt="card_image"
           />
-          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px]">
-            <p className="text-[14px] md:text-[17px] text-white  text-center ">
+          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px] flex justify-center items-center">
+            <p className="font-IranSans-medium text-[14px] md:text-[17px] text-white  text-center ">
               فیلم و سریال
             </p>
           </div>
@@ -102,8 +102,8 @@ const ShowCase = (props) => {
             className=" w-full h-full rounded-[10px] bg-white"
             alt="card_image"
           />
-          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px]">
-            <p className="text-[14px] md:text-[17px] text-white  text-center mx-auto">
+          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px] flex justify-center items-center">
+            <p className="font-IranSans-medium text-[14px] md:text-[17px] text-white  text-center mx-auto">
               فیلم و سریال
             </p>
           </div>
@@ -118,8 +118,8 @@ const ShowCase = (props) => {
             className=" w-full h-full rounded-[10px] bg-white"
             alt="card_image"
           />
-          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px] flex justify-center items-center">
-            <p className="text-[14px] md:text-[17px] text-white  text-center  ">
+          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px] flex justify-center items-center flex ">
+            <p className="font-IranSans-medium text-[14px] md:text-[17px] text-white  text-center  ">
               فیلم و سریال
             </p>
           </div>
@@ -131,8 +131,8 @@ const ShowCase = (props) => {
             className=" w-full h-full rounded-[10px] bg-white"
             alt="card_image"
           />
-          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px]">
-            <p className="text-[14px] md:text-[17px] text-white  text-center ">
+          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px] flex justify-center items-center">
+            <p className="font-IranSans-medium text-[14px] md:text-[17px] text-white  text-center ">
               فیلم و سریال
             </p>
           </div>
@@ -144,8 +144,8 @@ const ShowCase = (props) => {
             className=" w-full h-full rounded-[10px] bg-white"
             alt="card_image"
           />
-          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px]">
-            <p className="text-[14px] md:text-[17px] text-white  text-center ">
+          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px] flex justify-center items-center">
+            <p className="font-IranSans-medium text-[14px] md:text-[17px] text-white  text-center ">
               فیلم و سریال
             </p>
           </div>
@@ -157,8 +157,8 @@ const ShowCase = (props) => {
             className=" w-full h-full rounded-[10px] bg-white"
             alt="card_image"
           />
-          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px]">
-            <p className="text-[14px] md:text-[17px] text-white  text-center ">
+          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px] flex justify-center items-center">
+            <p className="font-IranSans-medium text-[14px] md:text-[17px] text-white  text-center ">
               فیلم و سریال
             </p>
           </div>
@@ -172,8 +172,8 @@ const ShowCase = (props) => {
             className=" w-full h-full rounded-[10px] bg-white"
             alt="card_image"
           />
-          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px]">
-            <p className="text-[14px] md:text-[17px] text-white  text-center ">
+          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px] flex justify-center items-center">
+            <p className="font-IranSans-medium text-[14px] md:text-[17px] text-white  text-center ">
               فیلم و سریال
             </p>
           </div>
@@ -185,8 +185,8 @@ const ShowCase = (props) => {
             className=" w-full h-full rounded-[10px] bg-white"
             alt="card_image"
           />
-          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px]">
-            <p className="text-[14px] md:text-[17px] text-white  text-center ">
+          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px] flex justify-center items-center">
+            <p className="font-IranSans-medium text-[14px] md:text-[17px] text-white  text-center ">
               فیلم و سریال
             </p>
           </div>
@@ -198,8 +198,8 @@ const ShowCase = (props) => {
             className=" w-full h-full rounded-[10px] bg-white"
             alt="card_image"
           />
-          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px]">
-            <p className="text-[14px] md:text-[17px] text-white  text-center ">
+          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px] flex justify-center items-center">
+            <p className="font-IranSans-medium text-[14px] md:text-[17px] text-white  text-center ">
               فیلم و سریال
             </p>
           </div>
@@ -211,8 +211,8 @@ const ShowCase = (props) => {
             className=" w-full h-full rounded-[10px] bg-white"
             alt="card_image"
           />
-          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px]">
-            <p className="text-[14px] md:text-[17px] text-white  text-center ">
+          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px] flex justify-center items-center">
+            <p className="font-IranSans-medium text-[14px] md:text-[17px] text-white  text-center ">
               فیلم و سریال
             </p>
           </div>
@@ -224,8 +224,8 @@ const ShowCase = (props) => {
             className=" w-full h-full rounded-[10px] bg-white"
             alt="card_image"
           />
-          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px]">
-            <p className="text-[14px] md:text-[17px] text-white  text-center mx-auto">
+          <div className="absolute bottom-0 w-full  rounded-b-[10px] bg-black opacity-80 h-[30px] md:h-[41px] flex justify-center items-center">
+            <p className="font-IranSans-medium text-[14px] md:text-[17px] text-white  text-center mx-auto">
               فیلم و سریال
             </p>
           </div>
@@ -236,11 +236,11 @@ const ShowCase = (props) => {
         className="relative ml-[24px] mr-[24px] mt-[20px] md:mt-[40px] h-[118px] md:h-[53px] md:flex md:flex-row-reverse md:justify-between md:items-center 
       md:max-w-[1200px] md:mx-auto md:pl-5 md:pr-5"
       >
-        <p className="text-right mb-[16px] text-[17px] md:text-[20px] text-white ">
+        <p className="text-right mb-[16px] text-[17px] md:text-[20px] text-white font-IranSans-medium">
           بیش از ۲۰۰۰ ساعت انواع محتواهای آموزشی و سرگرم کننده برای تمام سنین
         </p>
 
-        <button className="bg-[#E1165E] block w-[154px] md:w-[182px] h-[48px] md:h-[53px] rounded-[10px] text-white absolute left-0 md:static">
+        <button className="font-IranSans-bold bg-[#E1165E] block w-[154px] md:w-[182px] h-[48px] md:h-[53px] rounded-[10px] text-white absolute left-0 md:static">
           شروع یادگیری
         </button>
       </div>

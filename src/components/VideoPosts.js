@@ -10,14 +10,14 @@ const VideoPosts = (props) => {
         ></video> */}
         <div className="w-[327px] h-[181px] md:w-[612px] md:h-[350px] rounded-t-[10px] md:rounded-b-[10px] md:rounded-l-none bg-gray-500"></div>
         <div className="relative w-[327px] h-[213px] md:w-[480px] md:h-[203px] rounded-b-[10px] text-right md:mr-[24px] md:ml-[24px]">
-          <h1 className="mt-[16px] mr-[16px] text-[19px]">
+          <h1 className="mt-[16px] mr-[16px] text-[19px] font-IranSans-bold">
             متن خود را وارد کنید
           </h1>
-          <p className="mt-[16px] ml-[16px] mr-[16px] text-[14px]">
+          <p className="mt-[16px] ml-[16px] mr-[16px] text-[14px] font-IranSans-medium">
             آموزش اصطلاحات مرتبط با اتفاقات روز و ویدیوهای آموزشی فان و جذاب از
             جمله مواردی هستند که در این صفحه به اشتراک گذاشته می‌شوند.
           </p>
-          <button className="bg-[#00429E] text-white w-[228px] h-[40px] rounded-[10px] mt-[24px] absolute left-[16px] ">
+          <button className="bg-[#00429E] text-white w-[228px] h-[40px] rounded-[10px] mt-[24px] absolute left-[16px] font-IranSans-medium">
             متن خود را وارد کنید
           </button>
         </div>
@@ -32,14 +32,14 @@ const VideoPosts = (props) => {
         ></video> */}
         <div className="w-[327px] h-[181px] md:w-[612px] md:h-[350px] rounded-t-[10px] md:rounded-b-[10px] md:rounded-l-none bg-gray-500"></div>
         <div className="relative w-[327px] h-[213px] md:w-[480px] md:h-[203px] rounded-b-[10px] text-right md:mr-[24px] md:ml-[24px]">
-          <h1 className="mt-[16px] mr-[16px] text-[19px]">
+          <h1 className="mt-[16px] mr-[16px] text-[19px] font-IranSans-bold">
             متن خود را وارد کنید
           </h1>
-          <p className="mt-[16px] ml-[16px] mr-[16px] text-[14px]">
+          <p className="mt-[16px] ml-[16px] mr-[16px] text-[14px] font-IranSans-medium">
             آموزش اصطلاحات مرتبط با اتفاقات روز و ویدیوهای آموزشی فان و جذاب از
             جمله مواردی هستند که در این صفحه به اشتراک گذاشته می‌شوند.
           </p>
-          <button className="bg-[#00429E] text-white w-[228px] h-[40px] rounded-[10px] mt-[24px] absolute left-[16px] ">
+          <button className="bg-[#00429E] text-white w-[228px] h-[40px] rounded-[10px] mt-[24px] absolute left-[16px] font-IranSans-medium">
             متن خود را وارد کنید
           </button>
         </div>
@@ -54,14 +54,14 @@ const VideoPosts = (props) => {
         ></video> */}
         <div className="w-[327px] h-[181px] md:w-[612px] md:h-[350px] rounded-t-[10px] md:rounded-b-[10px] md:rounded-l-none bg-gray-500"></div>
         <div className="relative w-[327px] h-[213px] md:w-[480px] md:h-[203px] rounded-b-[10px] text-right md:mr-[24px] md:ml-[24px]">
-          <h1 className="mt-[16px] mr-[16px] text-[19px]">
+          <h1 className="mt-[16px] mr-[16px] text-[19px] font-IranSans-bold">
             متن خود را وارد کنید
           </h1>
-          <p className="mt-[16px] ml-[16px] mr-[16px] text-[14px]">
+          <p className="mt-[16px] ml-[16px] mr-[16px] text-[14px] font-IranSans-medium">
             آموزش اصطلاحات مرتبط با اتفاقات روز و ویدیوهای آموزشی فان و جذاب از
             جمله مواردی هستند که در این صفحه به اشتراک گذاشته می‌شوند.
           </p>
-          <button className="bg-[#00429E] text-white w-[228px] h-[40px] rounded-[10px] mt-[24px] absolute left-[16px] ">
+          <button className="bg-[#00429E] text-white w-[228px] h-[40px] rounded-[10px] mt-[24px] absolute left-[16px] font-IranSans-medium">
             متن خود را وارد کنید
           </button>
         </div>
