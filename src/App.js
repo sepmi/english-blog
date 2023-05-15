@@ -1,3 +1,4 @@
+import AppLinks from "./components/AppLinks";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Navbar from "./components/Navbar";
@@ -21,6 +22,7 @@ function App() {
       <ShowCase />
       <VideoPosts />
       <UserStory />
+      <AppLinks />
       <Footer />
     </div>
   );
