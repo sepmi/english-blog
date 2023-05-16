@@ -13,10 +13,10 @@ const Navbar = (props) => {
 
   return (
     <Fragment>
-      <div className="flex justify-between items-center bg-[#00429E] text-white h-[70px] bg-gradient-to-t from-[#00215A]  md:fixed md:w-[100%] md:z-10">
+      <div className="flex justify-between items-center bg-[#00429E] text-white h-[70px] md:h-[84px] bg-gradient-to-t from-[#003E96]  md:fixed md:top-0 md:w-full md:z-10">
         <img src={logo} alt="navbar_logo" className="ml-4  md:hidden" />
 
-        <button className="bg-[#E1165E] w-[164px] h-[48px] rounded-[10px] md:ml-[87px] text-[16px] md:text-[21px] font-IranSans-bold">
+        <button className="bg-[#E1165E] w-[164px] h-[48px] md:w-[207px] md:h-[53px] rounded-[10px] md:ml-[87px] text-[16px] md:text-[21px] font-IranSans-bold">
           دانلود اپلیکیشن
         </button>
 
@@ -37,12 +37,12 @@ const Navbar = (props) => {
         )}
 
         <ul className=" hidden md:flex flex-row-reverse mr-[80px]  items-center">
-          <img src={logo} alt="logo" className="ml-4 " />
+          <img src={logo} alt="logo" className=" md:w-[60px] md:h-[60px]" />
 
-          <li className="h-[31px] text-right text-[20px] text-white mr-[16px] font-IranSans-medium ">
+          <li className="h-[31px] text-right text-[20px] text-white mr-[32px] font-IranSans-Regular ">
             بلاگ زبانشناس
           </li>
-          <li className="h-[31px] text-right text-[20px] text-white mr-[16px] font-IranSans-medium">
+          <li className="h-[31px] text-right text-[20px] text-white mr-[32px] font-IranSans-Regular">
             تالار گفتگو
           </li>
         </ul>

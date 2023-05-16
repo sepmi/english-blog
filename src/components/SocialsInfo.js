@@ -4,7 +4,7 @@ import store from "../assests/home/Google play/Google play@2x.png";
 
 const SocialsInfo = (props) => {
   return (
-    <div className=" w-full h-[226px] md:h-[286px] mt-[40px] md:mt-[56px] mx-auto pt-[16px] md:pt-[24px] bg-[#EFEFEF]">
+    <div className=" w-full h-[226px] md:h-[286px] mt-[40px] md:mt-[56px] mx-auto pt-[16px] md:pt-[26px] bg-[#EFEFEF]">
       <div className="w-full h-[117px] md:h-[148px] mb-[24px] md:mb-[44px] flex flex-row-reverse items-stretch justify-evenly">
         <div className=" h-[117px] md:h-[148px] w-[125px] md:w-[466px]">
           <img

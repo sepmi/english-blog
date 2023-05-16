@@ -32,7 +32,7 @@ const UserStory = (props) => {
             </p>
             {/* main flex  */}
             <div className="h-[57px] md:h-[96px] mt-[32px] md:mt-[40px] w-full    flex flex-row-reverse md:justify-between flex-wrap md:flex-nowrap justify-end">
-              <div className="h-[57px] md:h-[96px] w-full   flex flex-row-reverse ">
+              <div className="h-[57px] md:h-[96px] w-full md:max-w-[635px]  flex flex-row-reverse ">
                 <div className="bg-[#727272] w-[56px] h-[56px] md:w-[96px] md:h-[96px] rounded-[100%] "></div>
                 <div className="w-[107px] h-[27px] md:w-[126px] md:h-[31px] md:mt-[11px] mr-[16px]">
                   <h1 className="text-right font-IranSans-medium text-[17px] md:text-[20px] text-white">
@@ -43,7 +43,7 @@ const UserStory = (props) => {
                   </p>
                 </div>
               </div>
-              <button className="bg-[#E1165E] w-[126px] h-[48px] md:w-[136px] md:h-[53px] rounded-[10px] mt-[32px] md:mt-[19px] text-white text-[25px] md:text-[21px] font-IranSans-bold ml-[24px] md:ml-0">
+              <button className="bg-[#E1165E] w-[126px] h-[48px] md:w-[136px] md:h-[53px] rounded-[10px] mt-[32px] md:mt-[19px] text-white text-[16px] md:text-[21px] font-IranSans-bold ml-[24px] md:ml-0">
                 ادامه
               </button>
             </div>
