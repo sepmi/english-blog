@@ -3,11 +3,11 @@ import icon from "../assests/home/icon.svg";
 const Skills = (props) => {
   return (
     <div className="items-center max-w-[327px] h-full  mx-auto mt-[20px] md:max-w-[1140px] md:mt-[56px]">
-      <h1 className=" text-[24px] mb-[33px] text-center md:text-[27px] font-IranSans-bold">
+      <h1 className=" text-[24px] mb-[7px] text-center md:text-[27px] font-IranSans-bold">
         محتوای خود را وارد کنید
       </h1>
-      <div className="flex flex-col text-right h-full mt-[48px] md:flex-wrap md:justify-start md:flex-row-reverse md:mt-[32px]">
-        <div className="h-[92px] md:max-w-[538px] md:mb-[24px] md:h-[126px]">
+      <div className="flex flex-col text-right h-full  md:flex-wrap md:justify-start md:flex-row-reverse md:mt-[32px]">
+        <div className="h-[92px] mt-[25px] md:mt-[40px] md:max-w-[538px] md:mb-[24px] md:h-[126px]">
           <div>
             <h1 className="font-IranSans-bold h-[30px] text-[19px] w-[283px] mr-[8px] inline-block md:text-[23px] md:h-[36px] md:mb-[16px] md:mr-[16px] md:mt-[9px]">
               محتوای خودرا وارد کنید
@@ -24,7 +24,7 @@ const Skills = (props) => {
           </p>
         </div>
 
-        <div className="h-[92px] mt-[25px] md:max-w-[538px] md:mb-[24px] md:h-[126px]">
+        <div className="h-[92px] mt-[25px] md:mt-[40px] md:max-w-[538px] md:mb-[24px] md:h-[126px]">
           <div>
             <h1 className="font-IranSans-bold h-[30px] text-[19px] w-[283px] mr-[8px] inline-block md:text-[23px] md:h-[36px] md:mb-[16px] md:mr-[16px] md:mt-[9px]">
               محتوای خودرا وارد کنید
@@ -41,7 +41,7 @@ const Skills = (props) => {
           </p>
         </div>
 
-        <div className="h-[92px] mt-[25px] md:max-w-[538px] mb-[24px] md:h-[126px]">
+        <div className="h-[92px] mt-[25px] md:mt-[40px] md:max-w-[538px] mb-[24px] md:h-[126px]">
           <div>
             <h1 className="font-IranSans-bold h-[30px] text-[19px] w-[283px] mr-[8px] inline-block md:text-[23px] md:h-[36px] md:mb-[16px] md:mr-[16px] md:mt-[9px]">
               محتوای خودرا وارد کنید
